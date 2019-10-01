@@ -1,0 +1,6 @@
+rootProject.name = 'hotel'
+include 'model'
+include 'common'
+include 'admin'
+include 'minapp'
+
